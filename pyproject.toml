@@ -1,0 +1,20 @@
+[project]
+name = "arrayflux"
+version = "0.1.0"
+description = "NumPy ndarray subclass with rolling operations."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+
+authors = [
+    { name = "Lorenzo Santarsieri" }
+]
+
+dependencies = [
+    "numpy",
+    "scipy"
+]
+
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
