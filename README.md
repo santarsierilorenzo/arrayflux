@@ -1,20 +1,6 @@
 # arrayflux
 
 <p align="center">
-  <a href="https://github.com/santarsierilorenzo/arrayflux/actions/workflows/ci.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/santarsierilorenzo/arrayflux/ci.yml?style=flat-square" alt="CI/CD Pipeline">
-  </a>
-  <a href="https://coveralls.io/github/santarsierilorenzo/arrayflux?branch=main">
-    <img src="https://coveralls.io/repos/github/santarsierilorenzo/arrayflux/badge.svg?branch=main" alt="Code Coverage"/>
-  </a>
-  <a href="https://github.com/santarsierilorenzo/arrayflux/releases">
-    <img src="https://img.shields.io/github/v/release/santarsierilorenzo/arrayflux?style=flat-square" alt="Latest Release">
-  </a>
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg?style=flat-square" alt="Platform">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
