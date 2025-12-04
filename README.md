@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest">
-  <img src="https://img.shields.io/badge/Accelerated-Rolling%20Windows-FF9F00?style=for-the-badge&logo=python&logoColor=white" alt="Rolling">
   <img src="https://img.shields.io/badge/Subclassed%20ndarray-C7253E?style=for-the-badge&logo=python&logoColor=white" alt="Subclass">
 </p>
 
